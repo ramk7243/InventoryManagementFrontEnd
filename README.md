@@ -2,9 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
+
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://3.14.65.212:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://inventory-demo-app.s3-website.us-east-2.amazonaws.com/`. The app will automatically reload if you change any of the source files.
+## email : test@demo.com
+## pass : test
 
 ## Code scaffolding
 
